@@ -1,13 +1,13 @@
 # Vintrace Coding Challenge
 
-To be able to run and test it, please follow the following steps...
+## Installation
 
-1. npm install
+Use the following steps to install and run...
 
-2. npm run client-install
-
-3. npm run dev
-
-4. Got to http://localhost:3000/
-
+```bash
+npm install
+npm run client-install
+npm run dev
+```
+Now the project is installed and running, go to http://localhost:3000/ for testing
 
